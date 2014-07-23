@@ -1,0 +1,8 @@
+7 
+MUS		180		Ensembles
+LING 	309 	Morphology
+BME		434		Biophotonics
+RS		305		Mysticism
+ART		101		Drawing
+COM		446		Investments
+PSYC	330		Personality
